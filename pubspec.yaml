@@ -40,8 +40,10 @@ dependencies:
   get_it: ^7.6.4 #service locator
   intl: ^0.18.1 #dateFormat
   floor: ^1.4.2 #Database
+  retrofit: ^4.0.3
   flutter_hooks: ^0.20.3 #Hooks
   cached_network_image: ^3.3.0 #cached image
+  dio: ^5.3.4
 
 dev_dependencies:
   flutter_test:
