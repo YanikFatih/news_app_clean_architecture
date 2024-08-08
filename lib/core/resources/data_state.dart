@@ -1,5 +1,4 @@
 import 'package:dio/dio.dart';
-import 'package:flutter/physics.dart';
 
 abstract class DataState<T> {
   final T ? data;
