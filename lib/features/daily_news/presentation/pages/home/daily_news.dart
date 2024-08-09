@@ -51,4 +51,3 @@ class DailyNews extends StatelessWidget {
     );
   }
 }
-
